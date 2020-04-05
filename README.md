@@ -15,11 +15,7 @@ How to use:
 
 3. Boot onto the usb from your computers BIOS
 
-4. You should eventually get to a terminal
-
-5. Type the command:
-
-"checkra1n"
+4. You should eventually get to checkra1n
 
 
 Now this step changes depending on what you are trying to do:
