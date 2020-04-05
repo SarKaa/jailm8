@@ -1,4 +1,21 @@
 # bootm8
+
+Instructions to myself
+
+Extract iso
+
+Turn fs into tar
+
+Edit tar, remove all excess
+
+Add Android.lzma, dtbpack, and dtbpack2 to root
+
+Add all files in file.tar.gz to /bin/bash/ or /usr/bin/
+
+Repack into sqfs
+
+Repack into iso
+
 A fully open source iso that is only 15 mb that lets users jb with checkra1n
 
 This project started off when I decided to make my own version of checkn1x, which also supported project sandcastle
