@@ -34,7 +34,7 @@ In the boot arguements box type "p"
 
 Continue with the jailbreak process
 
-Now your device should boog into whats called PongoOS
+Now your device should boot into whats called PongoOS
 
 Now quit checkra1n
 
