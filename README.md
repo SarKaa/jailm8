@@ -8,7 +8,7 @@ Turn fs into tar
 
 Edit tar, remove all excess
 
-Add Android.lzma, dtbpack, and dtbpack2 to root
+Add Android.lzma, dtbpack, dtbpack2, and linux.lzma to root directory
 
 Add all files in file.tar.gz to /bin/bash/ or /usr/bin/
 
