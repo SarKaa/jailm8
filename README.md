@@ -71,5 +71,7 @@ Again this step splits depending on what you wish to do"
 NOTE: etcher will not work when writing the iso
 
 Special thanks to the tiny core team for the base iso
+
 Thanks to the checkra1n team for checkra1n
+
 Thanks to asineth0 for inspiration
