@@ -1,5 +1,5 @@
 # bootm8
-A fully open source iso that is only 10 mb that lets users jb with checkra1n
+An even better iso that is only 10 mb that lets users jb with checkra1n
 
 This project started off when I decided to make my own version of checkn1x, which also supported project sandcastle
 
