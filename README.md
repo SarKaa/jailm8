@@ -46,14 +46,6 @@ Again this step splits depending on what you wish to do"
 "linux"
 
 
-The latest build also adds irecovery commands, so you can take your device out of recovery mode from the terminal (by typing "irecovery -n"
-
-For more irecovery commands type "irecovery -h"
-
-
-If you want to use the filesystem, it should be found on the releases page for each release (after 1.2.0)
-
-
 NOTE: etcher will not work when writing the iso
 
 Thanks to the checkra1n team for checkra1n
