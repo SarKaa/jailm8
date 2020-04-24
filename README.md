@@ -46,6 +46,10 @@ Again this step splits depending on what you wish to do"
 "linux"
 
 
+The latest build also adds irecovery commands, so you can take your device out of recovery mode from the terminal (by typing "irecovery -n"
+
+For more irecovery commands type "irecovery -h"
+
 
 NOTE: etcher will not work when writing the iso
 
