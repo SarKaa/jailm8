@@ -1,4 +1,7 @@
-# bootm8
+# Jailm8
+
+Formerly Bootm8
+
 An even better iso that lets users jb with checkra1n
 
 This project started off when I decided to make my own version of checkn1x, which also supported project sandcastle
