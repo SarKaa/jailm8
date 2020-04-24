@@ -26,7 +26,7 @@ Now this step changes depending on what you are trying to do:
 
 Go into "options"
 
-In the boot arguements box type "p"
+In the boot arguements box type "-p"
 
 Continue with the jailbreak process
 
