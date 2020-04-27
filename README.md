@@ -49,6 +49,11 @@ Again this step splits depending on what you wish to do"
 "linux"
 
 
+To use irecovery commands, type "irecovery -h" to print the list of commands
+
+To get your phone out of recovery mode, type "irecovery -n"
+
+
 NOTE: etcher will not work when writing the iso
 
 Thanks to the checkra1n team for checkra1n
