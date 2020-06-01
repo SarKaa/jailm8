@@ -1,0 +1,21 @@
+#!/bin/bash
+if [ $(uname) = "Darwin" ]; then
+	if [ $(uname -p) = "arm" ] || [ $(uname -p) = "arm64" ]; then
+		echo "This script needs to be run on macOS/Linux with a clean iOS device running checkra1n attached."
+		exit 1
+	fi
+fi
+
+echo "chimera1n deployment script"
+echo "(C) 2020, CoolStar. All Rights Reserved"
+echo "Modified to work with jailm8 by SarKaa
+
+echo ""
+echo "Before you begin: Please make sure your checkra1n device has been rootfs restored and that Loader has not been run on it"
+read -p "Press enter to continue"
+
+echo "Default password is: alpine"
+sftp -P4444 -o "StrictHostKeyChecking no" -o "UserKnownHostsFile=/dev/null" root@127.0.0.1 "put /chimera1n/chimera1n.sh && exit"
+ssh -p4444 -o "StrictHostKeyChecking no" -o "UserKnownHostsFile=/dev/null" root@127.0.0.1 "chmod 755 chimera1n.sh && ./chimera1n.sh"
+
+killall iproxy
