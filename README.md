@@ -69,6 +69,8 @@ chimera1n (still in very early beta, coming soon, if it works out)
 
 
 
+If you are curious about the chimera1n scripts, I have split coolstar's script into 2 parts, chimera1n and chimera1n.sh, so that it works without the host os, in this case jailm8, needing a WiFi connection, in the last release, I also added an ssh option, which should let you ssh into your device with a usb cable
+
 Sorry for the bad formatting, I am not used to using GitHub like this, but hopefully it is easy to understand
 
 NOTE: etcher will not work when writing the iso
