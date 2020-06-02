@@ -73,6 +73,8 @@ If you are curious about the chimera1n scripts, I have split coolstar's script i
 
 Sorry for the bad formatting, I am not used to using GitHub like this, but hopefully it is easy to understand
 
+This repo does not host any source code, it is just hosting useful files for the project, hence just to avoid confusion, THIS IS NOT OPEN SOURCE
+
 NOTE: etcher will not work when writing the iso
 
 Thanks to the checkra1n team for checkra1n
