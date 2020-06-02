@@ -10,48 +10,7 @@ So that got me thinking, I could do this myself, I dont need someone else doing 
 
 Plus quarantine got me bored
 
-How to use:
-
-1. Download rufus or any other live usb maker
-
-2. Write the latest iso to a usb,this usb can be reused afterwards
-
-3. Boot onto the usb from your computers BIOS
-
-4. You should eventually get to checkra1n
-
-
-Now this step changes depending on what you are trying to do:
-
--To run checkra1n normally continue
-
--To run project sandcastle:
-
-Go into "options"
-
-In the boot arguements box type "-p"
-
-Continue with the jailbreak process
-
-Now your device should boot into whats called PongoOS
-
-Now quit checkra1n
-
-Again this step splits depending on what you wish to do"
-
--To boot Android, type:
-
-"android"
-
-
--To boot Linux, (guess):
-
-"linux"
-
-
-To use irecovery commands, type "irecovery -h" to print the list of commands
-
-To get your phone out of recovery mode, type "irecovery -n"
+Instructions can be found [here](https://github.com/SarKaa/jailm8/wiki/Jailm8-wiki)
 
 
 I am open to any additions, as this is no longer just a checkra1n bootable iso, it is now a tool for more, and I want to add even more functionality to it, so if you have any ideas or suggestions just add an issue, I really want to make a muilti-purpose tool for both amateurs and developers (I don't see why but ¯\_(ツ)_/¯)
