@@ -26,6 +26,7 @@ Irecovery
 
 chimera1n (still in very early beta, coming soon, if it works out)
 
+ssh (use the command "iterm" to ssh onto your checkra1n jailbroken device over usb)
 
 
 If you are curious about the chimera1n scripts, I have split coolstar's script into 2 parts, chimera1n and chimera1n.sh, so that it works without the host os, in this case jailm8, needing a WiFi connection, in the last release, I also added an ssh option, which should let you ssh into your device with a usb cable. The actual changes I made to the script were that it would ssh to the device and download the files and run the commands on device, which would bootstrap it with chimera1n. It also uses wget instead of curl, and uses ssh instead of iproxy
