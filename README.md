@@ -25,6 +25,9 @@ Project sandcastle linux
 Irecovery
 
 
+The chimera1n feature never worked as it needed ssh and iproxy, which for some reason I can't add without breaking checkra1n, so I guess I'll just have to leave it for now
+
+
 Sorry for the bad formatting, I am not used to using GitHub like this, but hopefully it is easy to understand
 
 This repo does not host any source code, it is just hosting useful files for the project, hence just to avoid confusion, THIS IS NOT OPEN SOURCE
