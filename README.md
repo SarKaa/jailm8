@@ -12,6 +12,7 @@ Plus quarantine got me bored
 
 Instructions can be found [here](https://github.com/SarKaa/jailm8/wiki/Jailm8-wiki)
 
+For more support, or if you just wanna talk about jailbreak, join my [discord server](https://discord.gg/VDUFB3gpeQ)
 
 I am open to any additions, as this is no longer just a checkra1n bootable iso, it is now a tool for more, and I want to add even more functionality to it, so if you have any ideas or suggestions just add an issue, I really want to make a muilti-purpose tool for both amateurs and developers (I don't see why but ¯\\_(ツ)_/¯ )
 
