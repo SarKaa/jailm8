@@ -38,3 +38,6 @@ NOTE: etcher will not work when writing the iso
 Thanks to the checkra1n team for checkra1n
 
 Thanks to asineth0 for inspiration and teaching me(without knowing) about squashfs and linux terminal commands
+
+# For windows users
+After checkra1n for windows is released, jailm8 will become obsolete. The extra tools like project sandcastle will not be usable for windows users. For this reason, I am making a windows app with several features. If you want to try it out, you can find it [here](https://github.com/SarKaa/jailm8-windows)
